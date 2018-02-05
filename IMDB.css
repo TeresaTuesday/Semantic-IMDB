@@ -25,11 +25,6 @@ h4 {
     padding: 20px;
 }
 
-/*h4 {*/
-    /*display: inline;*/
-
-/*}*/
-
 .button {
     background-color: #fe2c09;
     border-radius: 10px;
@@ -71,19 +66,13 @@ h2 {
         'Movie1 Movie2 Movie3'
         'Movie4 Movie5 Movie6';
     grid-gap: 10px;
-    /*background-color: lightgrey;*/
     padding: 10px;
     width: 260px;
     height: 300px;
 }
 
 .grid-container > div {
-    /*background-color: rgba(255, 255, 255, 0.8);*/
     text-align: center;
-    /*padding: 20px 0;*/
-    /*font-size: 15px;*/
-    /*width: 80px;*/
-    /*height: 100px;*/
 }
 
 .cover {
